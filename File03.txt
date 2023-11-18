@@ -1,5 +1,6 @@
 Hello world
 add new branch : bugfix/forlogin
 my name
+my name
 
 edited on master branch
